@@ -5,13 +5,19 @@ The YouTube Video Fetcher is a React application that allows users to input a Yo
 🚀 Features :
 
 Search by Video ID: Users can enter a YouTube video ID to fetch details.
+
 Responsive Design: The application is fully responsive and works well on both desktop and mobile devices.
+
 Loading and Error Handling: Displays loading indicators and error messages for better user feedback.
+
 Download Link: Provides a direct download link for the video in the available formats.
 
 📦 Technologies Used :
 
 React: For building the user interface.
+
 Axios: For making HTTP requests to the RapidAPI service.
+
 CSS: For styling and responsive design.
+
 RapidAPI: To fetch YouTube video data.
